@@ -1,0 +1,1 @@
+Build trigger for ScoresPhone Android APK. The GitHub Actions workflow should build app-debug.apk on pushes to main.
